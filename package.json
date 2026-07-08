@@ -1,0 +1,32 @@
+{
+  "name": "kkomi",
+  "version": "1.0.0",
+  "description": "통합 레드팀 연구·개발·배포 에이전트 - 슬롯 · 카지노 · 클라우드 · 텔레그램 · 암호화폐 · 수학 모델링을 다루는 연구·개발 파트너이자 Pro 코딩·배포 에이전트",
+  "main": "public/index.html",
+  "scripts": {
+    "dev": "npx http-server public -p 3000",
+    "build": "echo 'Static site - no build required'",
+    "test": "echo 'No tests configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkomi-Telegram/kkomi.git"
+  },
+  "keywords": [
+    "redteam",
+    "casino",
+    "slot",
+    "telegram",
+    "crypto",
+    "analytics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkomi-Telegram/kkomi/issues"
+  },
+  "homepage": "https://github.com/kkomi-Telegram/kkomi#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
