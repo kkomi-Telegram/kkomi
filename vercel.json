@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "public": true,
+  "buildCommand": "echo 'No build required for static site'",
+  "outputDirectory": "public",
+  "analytics": {
+    "enable": true
+  }
+}
